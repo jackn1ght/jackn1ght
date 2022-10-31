@@ -1,7 +1,7 @@
 <p align="center">
  🌟 🌟 🌟 </br>
  Despite everything, it's still you.<br>
- <a href="https://lois-c.web.app">https://lois-ch.web.app</a><br>
+ <a href="https://lois-ch.web.app">https://lois-ch.web.app</a><br>
 </p>
 
 # Hi there 👋 , I'm (JacKnight) Lois Christian!
